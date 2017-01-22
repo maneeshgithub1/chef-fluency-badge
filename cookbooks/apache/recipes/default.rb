@@ -4,7 +4,7 @@
 #
 # Copyright:: 2017, The Authors, All Rights Reserved.
 
-pacakage 'apache2' do
+package 'apache2' do
   package_name 'httpd'
   action :install
 end
